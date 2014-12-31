@@ -29,6 +29,7 @@ return array(
 		'pasteVisibility'     => 'default',
 		'guestPosts'          => '1',
 		'pasteSearch'         => '1',
+		'showExp'             => '0',
 		'comments'            => '1',
 		'noExpire'            => 'all',
 		'csrf'                => '1',
